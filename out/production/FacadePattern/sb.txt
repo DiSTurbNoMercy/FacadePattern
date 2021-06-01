@@ -1,0 +1,2 @@
+bartek:qaz444:mainuser
+vlad:qaz111:admin
